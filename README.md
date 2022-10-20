@@ -1,3 +1,20 @@
+## Preview
+![Design preview for the Entertainment web app coding challenge](./assets/1.png)
+![Design preview for the Entertainment web app coding challenge](./assets/2.png)
+
+#  BMI Calculator
+
+ Simple react calculator with test 
+
+## Main Features:
+
+-  Calculates BMI based on an algorithm, taking into account the height and weight of the tested person.
+
+### Tech Stack:
+- [React JS](https://reactjs.org/docs/getting-started.html) v17.02 Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [React Testing Library](https://testing-library.com) 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
