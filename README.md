@@ -1,6 +1,6 @@
 ## Preview
-![Design preview for the Entertainment web app coding challenge](./assets/1.png)
-![Design preview for the Entertainment web app coding challenge](./assets/2.png)
+![Design preview for the Entertainment web app coding challenge](./assets/1.jpg)
+![Design preview for the Entertainment web app coding challenge](./assets/2.jpg)
 
 #  BMI Calculator
 
